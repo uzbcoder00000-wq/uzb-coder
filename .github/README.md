@@ -12,4 +12,4 @@ Fayllar:
 - 06_lists.py – Ro‘yxatlar
 - 07_functions.py – Funksiyalar
 - 08_calculator.py- kalkulyator (elif, else)
-- 
+  
