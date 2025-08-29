@@ -11,3 +11,5 @@ Fayllar:
 - 05_loops.py – Sikllar (for, while)
 - 06_lists.py – Ro‘yxatlar
 - 07_functions.py – Funksiyalar
+- 08_calculator.py- kalkulyator (elif, else)
+- 
